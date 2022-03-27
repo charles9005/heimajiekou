@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\script\test01.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\script\testlogin.py">
           <value>
             <Attribute>
